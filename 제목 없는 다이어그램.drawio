@@ -4,9 +4,12 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Hcib3ORlUV3E3d_TIXDo-31" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;labelBackgroundColor=none;fontColor=default;strokeColor=#E07A5F;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Hcib3ORlUV3E3d_TIXDo-39">
+        <mxCell id="Hcib3ORlUV3E3d_TIXDo-81" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="30" y="217" width="140" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="Hcib3ORlUV3E3d_TIXDo-31" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;labelBackgroundColor=none;fontColor=default;strokeColor=#E07A5F;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="300" y="199" as="sourcePoint" />
+            <mxPoint x="310" y="199" as="sourcePoint" />
             <mxPoint x="170" y="198.5" as="targetPoint" />
             <Array as="points">
               <mxPoint x="240" y="198.5" />
@@ -14,41 +17,53 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Hcib3ORlUV3E3d_TIXDo-32" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;학생&lt;/span&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
-          <mxGeometry x="30" y="160" width="140" height="78" as="geometry" />
+          <mxGeometry x="30" y="160" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Hcib3ORlUV3E3d_TIXDo-33" value="수강신청( )" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="Hcib3ORlUV3E3d_TIXDo-32">
-          <mxGeometry y="26" width="140" height="26" as="geometry" />
+          <mxGeometry y="26" width="140" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="Hcib3ORlUV3E3d_TIXDo-34" value="성적조회( )" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="Hcib3ORlUV3E3d_TIXDo-32">
-          <mxGeometry y="52" width="140" height="26" as="geometry" />
+        <mxCell id="Hcib3ORlUV3E3d_TIXDo-91" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Hcib3ORlUV3E3d_TIXDo-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="30.5" as="sourcePoint" />
+            <mxPoint x="140" y="31" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hcib3ORlUV3E3d_TIXDo-82" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="Hcib3ORlUV3E3d_TIXDo-32">
+          <mxGeometry y="44" width="140" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="Hcib3ORlUV3E3d_TIXDo-83" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="Hcib3ORlUV3E3d_TIXDo-32">
+          <mxGeometry y="62" width="140" height="18" as="geometry" />
         </mxCell>
         <mxCell id="Hcib3ORlUV3E3d_TIXDo-38" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;학생&lt;/span&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
-          <mxGeometry x="310" y="160" width="170" height="226" as="geometry" />
+          <mxGeometry x="310" y="160" width="170" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="Hcib3ORlUV3E3d_TIXDo-39" value="수강신청( )" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="Hcib3ORlUV3E3d_TIXDo-38">
-          <mxGeometry y="26" width="170" height="26" as="geometry" />
+        <mxCell id="Hcib3ORlUV3E3d_TIXDo-98" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Hcib3ORlUV3E3d_TIXDo-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="30" as="sourcePoint" />
+            <mxPoint x="170" y="30.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Hcib3ORlUV3E3d_TIXDo-71" value="수강신청( )" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="Hcib3ORlUV3E3d_TIXDo-38">
-          <mxGeometry y="52" width="170" height="26" as="geometry" />
+          <mxGeometry y="26" width="170" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Hcib3ORlUV3E3d_TIXDo-66" value="성적조회( )&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="Hcib3ORlUV3E3d_TIXDo-38">
-          <mxGeometry y="78" width="170" height="28" as="geometry" />
+          <mxGeometry y="52" width="170" height="28" as="geometry" />
         </mxCell>
         <mxCell id="Hcib3ORlUV3E3d_TIXDo-69" value="성적등록( )" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="Hcib3ORlUV3E3d_TIXDo-38">
-          <mxGeometry y="106" width="170" height="30" as="geometry" />
+          <mxGeometry y="80" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Hcib3ORlUV3E3d_TIXDo-70" value="출석부 조회( )" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="Hcib3ORlUV3E3d_TIXDo-38">
-          <mxGeometry y="136" width="170" height="30" as="geometry" />
+          <mxGeometry y="110" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Hcib3ORlUV3E3d_TIXDo-40" value="&lt;div&gt;수강신청기간설정( )&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="Hcib3ORlUV3E3d_TIXDo-38">
-          <mxGeometry y="166" width="170" height="30" as="geometry" />
+          <mxGeometry y="140" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Hcib3ORlUV3E3d_TIXDo-67" value="성적조회기간설정( )" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="Hcib3ORlUV3E3d_TIXDo-38">
-          <mxGeometry y="196" width="170" height="30" as="geometry" />
+          <mxGeometry y="170" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Hcib3ORlUV3E3d_TIXDo-41" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;labelBackgroundColor=none;fontColor=default;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.529;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#E07A5F;" edge="1" parent="1" source="Hcib3ORlUV3E3d_TIXDo-39" target="Hcib3ORlUV3E3d_TIXDo-45">
+        <mxCell id="Hcib3ORlUV3E3d_TIXDo-41" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;labelBackgroundColor=none;fontColor=default;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.529;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#E07A5F;" edge="1" parent="1" target="Hcib3ORlUV3E3d_TIXDo-45">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="490" y="198.25" as="sourcePoint" />
+            <mxPoint x="480" y="199" as="sourcePoint" />
             <mxPoint x="616" y="199.75" as="targetPoint" />
             <Array as="points">
               <mxPoint x="506" y="199.75" />
@@ -61,6 +76,12 @@
         <mxCell id="Hcib3ORlUV3E3d_TIXDo-45" value="수강신청기간설정( )" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="Hcib3ORlUV3E3d_TIXDo-44">
           <mxGeometry y="26" width="180" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="Hcib3ORlUV3E3d_TIXDo-97" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.016;exitY=0.177;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="Hcib3ORlUV3E3d_TIXDo-44" source="Hcib3ORlUV3E3d_TIXDo-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="10" y="30.5" as="sourcePoint" />
+            <mxPoint x="180" y="31" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Hcib3ORlUV3E3d_TIXDo-46" value="성적조회기간설정( )" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="Hcib3ORlUV3E3d_TIXDo-44">
           <mxGeometry y="52" width="180" height="26" as="geometry" />
         </mxCell>
@@ -69,6 +90,12 @@
         </mxCell>
         <mxCell id="Hcib3ORlUV3E3d_TIXDo-48" value="성적등록( )" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="Hcib3ORlUV3E3d_TIXDo-47">
           <mxGeometry y="26" width="170" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Hcib3ORlUV3E3d_TIXDo-99" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="Hcib3ORlUV3E3d_TIXDo-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="31" as="sourcePoint" />
+            <mxPoint x="170" y="31" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Hcib3ORlUV3E3d_TIXDo-49" value="출석부 조회( )" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="Hcib3ORlUV3E3d_TIXDo-47">
           <mxGeometry y="52" width="170" height="26" as="geometry" />
@@ -111,6 +138,39 @@
         </mxCell>
         <mxCell id="Hcib3ORlUV3E3d_TIXDo-74" value="&lt;span style=&quot;color: rgb(102, 102, 102); font-family: &amp;quot;malgun gothic&amp;quot;, &amp;quot;Apple SD Gothic Neo&amp;quot;, arial, &amp;quot;sans-serif&amp;quot;; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;2. 클래스 다이어그램 도안&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="1">
           <mxGeometry x="40" y="50" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hcib3ORlUV3E3d_TIXDo-79" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="360" y="320" width="40" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="Hcib3ORlUV3E3d_TIXDo-34" value="성적조회( )" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="30" y="217" width="140" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="Hcib3ORlUV3E3d_TIXDo-100" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;학생&lt;/span&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="310" y="160" width="170" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Hcib3ORlUV3E3d_TIXDo-101" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Hcib3ORlUV3E3d_TIXDo-100">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="30" as="sourcePoint" />
+            <mxPoint x="170" y="30.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hcib3ORlUV3E3d_TIXDo-102" value="수강신청( )" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="Hcib3ORlUV3E3d_TIXDo-100">
+          <mxGeometry y="26" width="170" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Hcib3ORlUV3E3d_TIXDo-103" value="성적조회( )&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="Hcib3ORlUV3E3d_TIXDo-100">
+          <mxGeometry y="52" width="170" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="Hcib3ORlUV3E3d_TIXDo-104" value="성적등록( )" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="Hcib3ORlUV3E3d_TIXDo-100">
+          <mxGeometry y="80" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hcib3ORlUV3E3d_TIXDo-105" value="출석부 조회( )" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="Hcib3ORlUV3E3d_TIXDo-100">
+          <mxGeometry y="110" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hcib3ORlUV3E3d_TIXDo-106" value="&lt;div&gt;수강신청기간설정( )&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="Hcib3ORlUV3E3d_TIXDo-100">
+          <mxGeometry y="140" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hcib3ORlUV3E3d_TIXDo-107" value="성적조회기간설정( )" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="Hcib3ORlUV3E3d_TIXDo-100">
+          <mxGeometry y="170" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
